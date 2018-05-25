@@ -9,7 +9,7 @@ namespace Classes
 
         public void Introduce()
         {
-            System.Console.WriteLine("My name is " + FirstName + " " + LastName);
+            Console.WriteLine("My name is " + FirstName + " " + LastName);
         }
     }
 }
