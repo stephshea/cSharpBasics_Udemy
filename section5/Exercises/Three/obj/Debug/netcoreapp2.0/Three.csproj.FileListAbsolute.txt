@@ -1,0 +1,11 @@
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Three/obj/Debug/netcoreapp2.0/Three.csprojAssemblyReference.cache
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Three/obj/Debug/netcoreapp2.0/Three.csproj.CoreCompileInputs.cache
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Three/obj/Debug/netcoreapp2.0/Three.AssemblyInfoInputs.cache
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Three/obj/Debug/netcoreapp2.0/Three.AssemblyInfo.cs
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Three/bin/Debug/netcoreapp2.0/Three.deps.json
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Three/bin/Debug/netcoreapp2.0/Three.runtimeconfig.json
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Three/bin/Debug/netcoreapp2.0/Three.runtimeconfig.dev.json
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Three/bin/Debug/netcoreapp2.0/Three.dll
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Three/bin/Debug/netcoreapp2.0/Three.pdb
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Three/obj/Debug/netcoreapp2.0/Three.dll
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Three/obj/Debug/netcoreapp2.0/Three.pdb
