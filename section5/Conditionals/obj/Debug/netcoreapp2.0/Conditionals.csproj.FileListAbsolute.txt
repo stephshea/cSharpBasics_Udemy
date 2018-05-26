@@ -1,0 +1,11 @@
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Conditionals/obj/Debug/netcoreapp2.0/Conditionals.csprojAssemblyReference.cache
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Conditionals/obj/Debug/netcoreapp2.0/Conditionals.csproj.CoreCompileInputs.cache
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Conditionals/obj/Debug/netcoreapp2.0/Conditionals.AssemblyInfoInputs.cache
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Conditionals/obj/Debug/netcoreapp2.0/Conditionals.AssemblyInfo.cs
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Conditionals/bin/Debug/netcoreapp2.0/Conditionals.deps.json
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Conditionals/bin/Debug/netcoreapp2.0/Conditionals.runtimeconfig.json
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Conditionals/bin/Debug/netcoreapp2.0/Conditionals.runtimeconfig.dev.json
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Conditionals/bin/Debug/netcoreapp2.0/Conditionals.dll
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Conditionals/bin/Debug/netcoreapp2.0/Conditionals.pdb
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Conditionals/obj/Debug/netcoreapp2.0/Conditionals.dll
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Conditionals/obj/Debug/netcoreapp2.0/Conditionals.pdb
