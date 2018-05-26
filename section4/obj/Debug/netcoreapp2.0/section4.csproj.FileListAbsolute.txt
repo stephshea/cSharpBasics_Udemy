@@ -1,0 +1,4 @@
+/Users/owner/Projects/cSharpBasicsUdemy/section4/obj/Debug/netcoreapp2.0/section4.csprojAssemblyReference.cache
+/Users/owner/Projects/cSharpBasicsUdemy/section4/obj/Debug/netcoreapp2.0/section4.csproj.CoreCompileInputs.cache
+/Users/owner/Projects/cSharpBasicsUdemy/section4/obj/Debug/netcoreapp2.0/section4.AssemblyInfoInputs.cache
+/Users/owner/Projects/cSharpBasicsUdemy/section4/obj/Debug/netcoreapp2.0/section4.AssemblyInfo.cs

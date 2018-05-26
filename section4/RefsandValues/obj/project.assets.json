@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/owner/Projects/cSharpBasicsUdemy/section4/Arrays/Arrays.csproj",
-      "projectName": "Arrays",
-      "projectPath": "/Users/owner/Projects/cSharpBasicsUdemy/section4/Arrays/Arrays.csproj",
+      "projectUniqueName": "/Users/owner/Projects/cSharpBasicsUdemy/section4/RefsandValues/RefsandValues.csproj",
+      "projectName": "RefsandValues",
+      "projectPath": "/Users/owner/Projects/cSharpBasicsUdemy/section4/RefsandValues/RefsandValues.csproj",
       "packagesPath": "/Users/owner/.nuget/packages/",
-      "outputPath": "/Users/owner/Projects/cSharpBasicsUdemy/section4/Arrays/obj/",
+      "outputPath": "/Users/owner/Projects/cSharpBasicsUdemy/section4/RefsandValues/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

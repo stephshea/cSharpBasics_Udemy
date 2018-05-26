@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/owner/Projects/cSharpBasicsUdemy/section4/Arrays/Arrays.csproj",
-      "projectName": "Arrays",
-      "projectPath": "/Users/owner/Projects/cSharpBasicsUdemy/section4/Arrays/Arrays.csproj",
+      "projectUniqueName": "/Users/owner/Projects/cSharpBasicsUdemy/section4/Enums/Enums.csproj",
+      "projectName": "Enums",
+      "projectPath": "/Users/owner/Projects/cSharpBasicsUdemy/section4/Enums/Enums.csproj",
       "packagesPath": "/Users/owner/.nuget/packages/",
-      "outputPath": "/Users/owner/Projects/cSharpBasicsUdemy/section4/Arrays/obj/",
+      "outputPath": "/Users/owner/Projects/cSharpBasicsUdemy/section4/Enums/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

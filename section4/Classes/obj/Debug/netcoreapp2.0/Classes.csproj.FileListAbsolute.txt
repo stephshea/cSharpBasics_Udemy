@@ -1,0 +1,11 @@
+/Users/owner/Projects/cSharpBasicsUdemy/section4/Classes/bin/Debug/netcoreapp2.0/Classes.deps.json
+/Users/owner/Projects/cSharpBasicsUdemy/section4/Classes/bin/Debug/netcoreapp2.0/Classes.runtimeconfig.json
+/Users/owner/Projects/cSharpBasicsUdemy/section4/Classes/bin/Debug/netcoreapp2.0/Classes.runtimeconfig.dev.json
+/Users/owner/Projects/cSharpBasicsUdemy/section4/Classes/bin/Debug/netcoreapp2.0/Classes.dll
+/Users/owner/Projects/cSharpBasicsUdemy/section4/Classes/bin/Debug/netcoreapp2.0/Classes.pdb
+/Users/owner/Projects/cSharpBasicsUdemy/section4/Classes/obj/Debug/netcoreapp2.0/Classes.csprojAssemblyReference.cache
+/Users/owner/Projects/cSharpBasicsUdemy/section4/Classes/obj/Debug/netcoreapp2.0/Classes.csproj.CoreCompileInputs.cache
+/Users/owner/Projects/cSharpBasicsUdemy/section4/Classes/obj/Debug/netcoreapp2.0/Classes.AssemblyInfoInputs.cache
+/Users/owner/Projects/cSharpBasicsUdemy/section4/Classes/obj/Debug/netcoreapp2.0/Classes.AssemblyInfo.cs
+/Users/owner/Projects/cSharpBasicsUdemy/section4/Classes/obj/Debug/netcoreapp2.0/Classes.dll
+/Users/owner/Projects/cSharpBasicsUdemy/section4/Classes/obj/Debug/netcoreapp2.0/Classes.pdb

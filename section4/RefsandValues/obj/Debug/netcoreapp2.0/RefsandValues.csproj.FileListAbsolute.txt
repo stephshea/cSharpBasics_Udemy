@@ -1,0 +1,11 @@
+/Users/owner/Projects/cSharpBasicsUdemy/section4/RefsandValues/bin/Debug/netcoreapp2.0/RefsandValues.deps.json
+/Users/owner/Projects/cSharpBasicsUdemy/section4/RefsandValues/bin/Debug/netcoreapp2.0/RefsandValues.runtimeconfig.json
+/Users/owner/Projects/cSharpBasicsUdemy/section4/RefsandValues/bin/Debug/netcoreapp2.0/RefsandValues.runtimeconfig.dev.json
+/Users/owner/Projects/cSharpBasicsUdemy/section4/RefsandValues/bin/Debug/netcoreapp2.0/RefsandValues.dll
+/Users/owner/Projects/cSharpBasicsUdemy/section4/RefsandValues/bin/Debug/netcoreapp2.0/RefsandValues.pdb
+/Users/owner/Projects/cSharpBasicsUdemy/section4/RefsandValues/obj/Debug/netcoreapp2.0/RefsandValues.csprojAssemblyReference.cache
+/Users/owner/Projects/cSharpBasicsUdemy/section4/RefsandValues/obj/Debug/netcoreapp2.0/RefsandValues.csproj.CoreCompileInputs.cache
+/Users/owner/Projects/cSharpBasicsUdemy/section4/RefsandValues/obj/Debug/netcoreapp2.0/RefsandValues.AssemblyInfoInputs.cache
+/Users/owner/Projects/cSharpBasicsUdemy/section4/RefsandValues/obj/Debug/netcoreapp2.0/RefsandValues.AssemblyInfo.cs
+/Users/owner/Projects/cSharpBasicsUdemy/section4/RefsandValues/obj/Debug/netcoreapp2.0/RefsandValues.dll
+/Users/owner/Projects/cSharpBasicsUdemy/section4/RefsandValues/obj/Debug/netcoreapp2.0/RefsandValues.pdb
