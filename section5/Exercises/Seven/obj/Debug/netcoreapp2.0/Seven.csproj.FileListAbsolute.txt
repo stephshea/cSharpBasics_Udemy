@@ -1,0 +1,11 @@
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Seven/obj/Debug/netcoreapp2.0/Seven.csprojAssemblyReference.cache
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Seven/obj/Debug/netcoreapp2.0/Seven.csproj.CoreCompileInputs.cache
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Seven/obj/Debug/netcoreapp2.0/Seven.AssemblyInfoInputs.cache
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Seven/obj/Debug/netcoreapp2.0/Seven.AssemblyInfo.cs
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Seven/bin/Debug/netcoreapp2.0/Seven.deps.json
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Seven/bin/Debug/netcoreapp2.0/Seven.runtimeconfig.json
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Seven/bin/Debug/netcoreapp2.0/Seven.runtimeconfig.dev.json
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Seven/bin/Debug/netcoreapp2.0/Seven.dll
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Seven/bin/Debug/netcoreapp2.0/Seven.pdb
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Seven/obj/Debug/netcoreapp2.0/Seven.dll
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Seven/obj/Debug/netcoreapp2.0/Seven.pdb
