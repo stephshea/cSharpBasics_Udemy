@@ -1,0 +1,11 @@
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Five/obj/Debug/netcoreapp2.0/Five.csprojAssemblyReference.cache
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Five/obj/Debug/netcoreapp2.0/Five.csproj.CoreCompileInputs.cache
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Five/obj/Debug/netcoreapp2.0/Five.AssemblyInfoInputs.cache
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Five/obj/Debug/netcoreapp2.0/Five.AssemblyInfo.cs
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Five/bin/Debug/netcoreapp2.0/Five.deps.json
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Five/bin/Debug/netcoreapp2.0/Five.runtimeconfig.json
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Five/bin/Debug/netcoreapp2.0/Five.runtimeconfig.dev.json
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Five/bin/Debug/netcoreapp2.0/Five.dll
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Five/bin/Debug/netcoreapp2.0/Five.pdb
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Five/obj/Debug/netcoreapp2.0/Five.dll
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Five/obj/Debug/netcoreapp2.0/Five.pdb

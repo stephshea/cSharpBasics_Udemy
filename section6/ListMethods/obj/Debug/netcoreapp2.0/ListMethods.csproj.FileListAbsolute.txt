@@ -1,0 +1,11 @@
+/Users/owner/Projects/cSharpBasicsUdemy/section6/ListMethods/bin/Debug/netcoreapp2.0/ListMethods.deps.json
+/Users/owner/Projects/cSharpBasicsUdemy/section6/ListMethods/bin/Debug/netcoreapp2.0/ListMethods.runtimeconfig.json
+/Users/owner/Projects/cSharpBasicsUdemy/section6/ListMethods/bin/Debug/netcoreapp2.0/ListMethods.runtimeconfig.dev.json
+/Users/owner/Projects/cSharpBasicsUdemy/section6/ListMethods/bin/Debug/netcoreapp2.0/ListMethods.dll
+/Users/owner/Projects/cSharpBasicsUdemy/section6/ListMethods/bin/Debug/netcoreapp2.0/ListMethods.pdb
+/Users/owner/Projects/cSharpBasicsUdemy/section6/ListMethods/obj/Debug/netcoreapp2.0/ListMethods.csprojAssemblyReference.cache
+/Users/owner/Projects/cSharpBasicsUdemy/section6/ListMethods/obj/Debug/netcoreapp2.0/ListMethods.csproj.CoreCompileInputs.cache
+/Users/owner/Projects/cSharpBasicsUdemy/section6/ListMethods/obj/Debug/netcoreapp2.0/ListMethods.AssemblyInfoInputs.cache
+/Users/owner/Projects/cSharpBasicsUdemy/section6/ListMethods/obj/Debug/netcoreapp2.0/ListMethods.AssemblyInfo.cs
+/Users/owner/Projects/cSharpBasicsUdemy/section6/ListMethods/obj/Debug/netcoreapp2.0/ListMethods.dll
+/Users/owner/Projects/cSharpBasicsUdemy/section6/ListMethods/obj/Debug/netcoreapp2.0/ListMethods.pdb

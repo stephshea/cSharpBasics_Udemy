@@ -1,0 +1,11 @@
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Four/obj/Debug/netcoreapp2.0/Four.csprojAssemblyReference.cache
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Four/obj/Debug/netcoreapp2.0/Four.csproj.CoreCompileInputs.cache
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Four/obj/Debug/netcoreapp2.0/Four.AssemblyInfoInputs.cache
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Four/obj/Debug/netcoreapp2.0/Four.AssemblyInfo.cs
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Four/bin/Debug/netcoreapp2.0/Four.deps.json
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Four/bin/Debug/netcoreapp2.0/Four.runtimeconfig.json
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Four/bin/Debug/netcoreapp2.0/Four.runtimeconfig.dev.json
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Four/bin/Debug/netcoreapp2.0/Four.dll
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Four/bin/Debug/netcoreapp2.0/Four.pdb
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Four/obj/Debug/netcoreapp2.0/Four.dll
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Four/obj/Debug/netcoreapp2.0/Four.pdb

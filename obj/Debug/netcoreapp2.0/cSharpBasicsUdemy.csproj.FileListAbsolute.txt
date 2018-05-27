@@ -1,0 +1,5 @@
+/Users/owner/Projects/cSharpBasicsUdemy/obj/Debug/netcoreapp2.0/cSharpBasicsUdemy.csprojAssemblyReference.cache
+/Users/owner/Projects/cSharpBasicsUdemy/obj/Debug/netcoreapp2.0/cSharpBasicsUdemy.csproj.CoreCompileInputs.cache
+/Users/owner/Projects/cSharpBasicsUdemy/obj/Debug/netcoreapp2.0/cSharpBasicsUdemy.AssemblyInfoInputs.cache
+/Users/owner/Projects/cSharpBasicsUdemy/obj/Debug/netcoreapp2.0/cSharpBasicsUdemy.AssemblyInfo.cs
+/Users/owner/Projects/cSharpBasicsUdemy/obj/Debug/netcoreapp2.0/cSharpBasicsUdemy.csprojResolveAssemblyReference.cache

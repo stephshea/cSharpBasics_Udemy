@@ -1,0 +1,11 @@
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Six/obj/Debug/netcoreapp2.0/Six.csprojAssemblyReference.cache
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Six/obj/Debug/netcoreapp2.0/Six.csproj.CoreCompileInputs.cache
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Six/obj/Debug/netcoreapp2.0/Six.AssemblyInfoInputs.cache
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Six/obj/Debug/netcoreapp2.0/Six.AssemblyInfo.cs
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Six/bin/Debug/netcoreapp2.0/Six.deps.json
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Six/bin/Debug/netcoreapp2.0/Six.runtimeconfig.json
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Six/bin/Debug/netcoreapp2.0/Six.runtimeconfig.dev.json
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Six/bin/Debug/netcoreapp2.0/Six.dll
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Six/bin/Debug/netcoreapp2.0/Six.pdb
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Six/obj/Debug/netcoreapp2.0/Six.dll
+/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Six/obj/Debug/netcoreapp2.0/Six.pdb
