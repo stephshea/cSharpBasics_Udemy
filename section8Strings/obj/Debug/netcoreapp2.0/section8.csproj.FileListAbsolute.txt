@@ -9,3 +9,14 @@
 /Users/owner/Projects/cSharpBasicsUdemy/section8/bin/Debug/netcoreapp2.0/section8.pdb
 /Users/owner/Projects/cSharpBasicsUdemy/section8/obj/Debug/netcoreapp2.0/section8.dll
 /Users/owner/Projects/cSharpBasicsUdemy/section8/obj/Debug/netcoreapp2.0/section8.pdb
+/Users/owner/Projects/cSharpBasicsUdemy/section8Strings/obj/Debug/netcoreapp2.0/section8.csprojAssemblyReference.cache
+/Users/owner/Projects/cSharpBasicsUdemy/section8Strings/obj/Debug/netcoreapp2.0/section8.csproj.CoreCompileInputs.cache
+/Users/owner/Projects/cSharpBasicsUdemy/section8Strings/obj/Debug/netcoreapp2.0/section8.AssemblyInfoInputs.cache
+/Users/owner/Projects/cSharpBasicsUdemy/section8Strings/obj/Debug/netcoreapp2.0/section8.AssemblyInfo.cs
+/Users/owner/Projects/cSharpBasicsUdemy/section8Strings/obj/Debug/netcoreapp2.0/section8.dll
+/Users/owner/Projects/cSharpBasicsUdemy/section8Strings/obj/Debug/netcoreapp2.0/section8.pdb
+/Users/owner/Projects/cSharpBasicsUdemy/section8Strings/bin/Debug/netcoreapp2.0/section8.deps.json
+/Users/owner/Projects/cSharpBasicsUdemy/section8Strings/bin/Debug/netcoreapp2.0/section8.runtimeconfig.json
+/Users/owner/Projects/cSharpBasicsUdemy/section8Strings/bin/Debug/netcoreapp2.0/section8.runtimeconfig.dev.json
+/Users/owner/Projects/cSharpBasicsUdemy/section8Strings/bin/Debug/netcoreapp2.0/section8.dll
+/Users/owner/Projects/cSharpBasicsUdemy/section8Strings/bin/Debug/netcoreapp2.0/section8.pdb

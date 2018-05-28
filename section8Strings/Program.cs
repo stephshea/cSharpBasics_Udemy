@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
 namespace section8
 {
-    class Strings
+    class Program
     {
         static void Main(string[] args)
         {
@@ -32,6 +34,44 @@ namespace section8
             float price = 29.95f; 
             
             System.Console.WriteLine(price.ToString("C0"));
-        }
+
+            var sentence = "This is a really really really really really realy long bit of text";
+            var summary = StringUtility.SummarizeText(sentence, 25);
+            System.Console.WriteLine(summary);
+
+            var builder = new StringBuilder("Hello Abby");
+            builder
+                .Append('-', 10)
+                .AppendLine()
+                .Append("Header")
+                .AppendLine()
+                .Append('-', 10)
+                .Replace('-', '+')
+                .Remove(0, 10)
+                .Insert(0, new string('-', 10));
+            System.Console.WriteLine(builder);
+
+            System.Console.WriteLine("index0: " + builder[0]);
+
+            // const int maxLength = 20;
+            // if (text.Length < maxLength)
+            //     System.Console.WriteLine(text);
+            // else
+            // {
+            //     var words = text.Split(' ');
+            //     var totalCharacters = 0;
+            //     var summaryWords = new List<string>();
+
+            //     foreach (var word in words)
+            //     {   
+            //         summaryWords.Add(word);
+            //         totalCharacters += word.Length + 1;
+            //         if (totalCharacters > maxLength)
+            //             break;
+            //     }
+            //     var summary = String.Join(" ", summaryWords) + "...";
+            //     System.Console.WriteLine(summary);
+            // }    
+        }    
     }
 }
