@@ -16,7 +16,7 @@ namespace section9Files
             //Can add bool to overwrite
 
             // var path = @"c:"
-            File.Copy("/Users/Stephanie/Documents/coding/myfile.jpg", "/Users/owner/Documents/myfile.jpg", true);
+            File.Copy("/Users/owner/Documents/coding/myfile.jpg", "/Users/owner/Documents/myfile.jpg", true);
             
             //Verbatim sting @ to remove extra backslashes
             File.Copy(@"c:\temp\myfile.jpg", "d:\temp\myfile.jpg", true)
@@ -40,29 +40,29 @@ namespace section9Files
             }
 
             // Directory.CreateDirectory(@"c:\temp\folder1");
-            Directory.CreateDirectory(@"Users/Stephanie/Documents/temp/folder1");
+            Directory.CreateDirectory(@"Users/owner/Documents/temp/folder1");
 
             //gets all files in dir ad subdirs
 
-            // Directory.GetFiles(@"c:\project\CSharpFundamentals", "*.*", SearchOptions.AllDirectories);
-            Directory.GetFiles(@"Users/Stephanie/Documents/", "*.*", SearchOptions.AllDirectories);
+            // Directory.GetFiles(@"c:\project\CSharpFundamentals", "*.*", SearchOption.AllDirectories);
+            Directory.GetFiles(@"Users/owner/Documents/", "*.*", SearchOption.AllDirectories);
 
             //gets all files in dir ad subdirs
-            var files = Directory.GetFiles(@"Users/Stephanie/Documents/", "*.*", SearchOptions.AllDirectories);
+            var files = Directory.GetFiles(@"Users/owner/Documents/", "*.*", SearchOption.AllDirectories);
             foreach (var file in files)
                 {
                         System.Console.WriteLine(file);
                 }
 
             //can specify file type
-            var files = Directory.GetFiles(@"Users/Stephanie/Documents/", "*.doc*", SearchOptions.AllDirectories);
+            var files = Directory.GetFiles(@"Users/owner/Documents/", "*.doc*", SearchOption.AllDirectories);
             foreach (var file in files)
                 {
                         System.Console.WriteLine(file);
                 }    
 
             //
-            var directories = Directory.GetDirectories(@"Users/Stephanie/Documents/", "*.*", SearchOptions.AllDirectories);
+            var directories = Directory.GetDirectories(@"Users/owner/Documents/", "*.*", SearchOption.AllDirectories);
             foreach (var directory in directories)
             {
                 System.Console.WriteLine(directory);  
@@ -76,7 +76,7 @@ namespace section9Files
             directoryInfo.GetDirectories();
 
             //PATH class
-            var path = @"Users/Stephanie/Documents/text/test.txt";
+            var path = @"Users/owner/Documents/text/test.txt";
             //get file ext
             System.Console.WriteLine("Extension: " + Path.GetExtension(path));
 
