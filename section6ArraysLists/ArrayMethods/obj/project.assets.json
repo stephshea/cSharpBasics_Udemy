@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/owner/Projects/cSharpBasicsUdemy/section6/ArrayMethods/ArrayMethods.csproj",
+      "projectUniqueName": "/Users/owner/Projects/cSharpBasicsUdemy/section6ArraysLists/ArrayMethods/ArrayMethods.csproj",
       "projectName": "ArrayMethods",
-      "projectPath": "/Users/owner/Projects/cSharpBasicsUdemy/section6/ArrayMethods/ArrayMethods.csproj",
+      "projectPath": "/Users/owner/Projects/cSharpBasicsUdemy/section6ArraysLists/ArrayMethods/ArrayMethods.csproj",
       "packagesPath": "/Users/owner/.nuget/packages/",
-      "outputPath": "/Users/owner/Projects/cSharpBasicsUdemy/section6/ArrayMethods/obj/",
+      "outputPath": "/Users/owner/Projects/cSharpBasicsUdemy/section6ArraysLists/ArrayMethods/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

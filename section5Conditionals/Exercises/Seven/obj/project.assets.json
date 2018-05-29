@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Seven/Seven.csproj",
+      "projectUniqueName": "/Users/owner/Projects/cSharpBasicsUdemy/section5Conditionals/Exercises/Seven/Seven.csproj",
       "projectName": "Seven",
-      "projectPath": "/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Seven/Seven.csproj",
+      "projectPath": "/Users/owner/Projects/cSharpBasicsUdemy/section5Conditionals/Exercises/Seven/Seven.csproj",
       "packagesPath": "/Users/owner/.nuget/packages/",
-      "outputPath": "/Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Seven/obj/",
+      "outputPath": "/Users/owner/Projects/cSharpBasicsUdemy/section5Conditionals/Exercises/Seven/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

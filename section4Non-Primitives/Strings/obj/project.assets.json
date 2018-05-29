@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/owner/Projects/cSharpBasicsUdemy/section4/Strings/Strings.csproj",
+      "projectUniqueName": "/Users/owner/Projects/cSharpBasicsUdemy/section4Non-Primitives/Strings/Strings.csproj",
       "projectName": "Strings",
-      "projectPath": "/Users/owner/Projects/cSharpBasicsUdemy/section4/Strings/Strings.csproj",
+      "projectPath": "/Users/owner/Projects/cSharpBasicsUdemy/section4Non-Primitives/Strings/Strings.csproj",
       "packagesPath": "/Users/owner/.nuget/packages/",
-      "outputPath": "/Users/owner/Projects/cSharpBasicsUdemy/section4/Strings/obj/",
+      "outputPath": "/Users/owner/Projects/cSharpBasicsUdemy/section4Non-Primitives/Strings/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

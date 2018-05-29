@@ -1,0 +1,11 @@
+/Users/owner/Projects/cSharpBasicsUdemy/section10Debugging/bin/Debug/netcoreapp2.0/section10Debugging.deps.json
+/Users/owner/Projects/cSharpBasicsUdemy/section10Debugging/bin/Debug/netcoreapp2.0/section10Debugging.runtimeconfig.json
+/Users/owner/Projects/cSharpBasicsUdemy/section10Debugging/bin/Debug/netcoreapp2.0/section10Debugging.runtimeconfig.dev.json
+/Users/owner/Projects/cSharpBasicsUdemy/section10Debugging/bin/Debug/netcoreapp2.0/section10Debugging.dll
+/Users/owner/Projects/cSharpBasicsUdemy/section10Debugging/bin/Debug/netcoreapp2.0/section10Debugging.pdb
+/Users/owner/Projects/cSharpBasicsUdemy/section10Debugging/obj/Debug/netcoreapp2.0/section10Debugging.csprojAssemblyReference.cache
+/Users/owner/Projects/cSharpBasicsUdemy/section10Debugging/obj/Debug/netcoreapp2.0/section10Debugging.csproj.CoreCompileInputs.cache
+/Users/owner/Projects/cSharpBasicsUdemy/section10Debugging/obj/Debug/netcoreapp2.0/section10Debugging.AssemblyInfoInputs.cache
+/Users/owner/Projects/cSharpBasicsUdemy/section10Debugging/obj/Debug/netcoreapp2.0/section10Debugging.AssemblyInfo.cs
+/Users/owner/Projects/cSharpBasicsUdemy/section10Debugging/obj/Debug/netcoreapp2.0/section10Debugging.dll
+/Users/owner/Projects/cSharpBasicsUdemy/section10Debugging/obj/Debug/netcoreapp2.0/section10Debugging.pdb
