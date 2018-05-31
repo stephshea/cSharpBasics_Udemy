@@ -8,17 +8,19 @@ namespace Six
         static void Main(string[] args)
         {
         int total = 0;
-        var num;
-        
-        Console.WriteLine("enter a number or ok");
-        num = Int32.Parse(Console.ReadLine());
-        while(typeof(num) == "number")
+
+        while(true)
         {
-        total += num;
-        System.Console.WriteLine(total);
+            Console.WriteLine("enter a number or ok to exit");
+            var input = Console.ReadLine();
+
+            if (input.ToLower() == "ok")
+            break;
+            
+            total += Convert.ToInt32(input);
         }
-        
-        break;   
+         System.Console.WriteLine(total);
+          
         }      
     }
 }
