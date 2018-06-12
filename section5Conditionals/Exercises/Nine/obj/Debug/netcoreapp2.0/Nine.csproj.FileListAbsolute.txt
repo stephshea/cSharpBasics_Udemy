@@ -1,0 +1,11 @@
+/Users/owner/Projects/cSharpBasicsUdemy/section5Conditionals/Exercises/Nine/obj/Debug/netcoreapp2.0/Nine.csprojAssemblyReference.cache
+/Users/owner/Projects/cSharpBasicsUdemy/section5Conditionals/Exercises/Nine/obj/Debug/netcoreapp2.0/Nine.csproj.CoreCompileInputs.cache
+/Users/owner/Projects/cSharpBasicsUdemy/section5Conditionals/Exercises/Nine/obj/Debug/netcoreapp2.0/Nine.AssemblyInfoInputs.cache
+/Users/owner/Projects/cSharpBasicsUdemy/section5Conditionals/Exercises/Nine/obj/Debug/netcoreapp2.0/Nine.AssemblyInfo.cs
+/Users/owner/Projects/cSharpBasicsUdemy/section5Conditionals/Exercises/Nine/bin/Debug/netcoreapp2.0/Nine.deps.json
+/Users/owner/Projects/cSharpBasicsUdemy/section5Conditionals/Exercises/Nine/bin/Debug/netcoreapp2.0/Nine.runtimeconfig.json
+/Users/owner/Projects/cSharpBasicsUdemy/section5Conditionals/Exercises/Nine/bin/Debug/netcoreapp2.0/Nine.runtimeconfig.dev.json
+/Users/owner/Projects/cSharpBasicsUdemy/section5Conditionals/Exercises/Nine/bin/Debug/netcoreapp2.0/Nine.dll
+/Users/owner/Projects/cSharpBasicsUdemy/section5Conditionals/Exercises/Nine/bin/Debug/netcoreapp2.0/Nine.pdb
+/Users/owner/Projects/cSharpBasicsUdemy/section5Conditionals/Exercises/Nine/obj/Debug/netcoreapp2.0/Nine.dll
+/Users/owner/Projects/cSharpBasicsUdemy/section5Conditionals/Exercises/Nine/obj/Debug/netcoreapp2.0/Nine.pdb
