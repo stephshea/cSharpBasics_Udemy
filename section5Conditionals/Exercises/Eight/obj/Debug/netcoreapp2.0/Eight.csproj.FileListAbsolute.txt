@@ -9,3 +9,14 @@
 /Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Eight/bin/Debug/netcoreapp2.0/Eight.pdb
 /Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Eight/obj/Debug/netcoreapp2.0/Eight.dll
 /Users/owner/Projects/cSharpBasicsUdemy/section5/Exercises/Eight/obj/Debug/netcoreapp2.0/Eight.pdb
+/Users/owner/Projects/cSharpBasicsUdemy/section5Conditionals/Exercises/Eight/obj/Debug/netcoreapp2.0/Eight.csprojAssemblyReference.cache
+/Users/owner/Projects/cSharpBasicsUdemy/section5Conditionals/Exercises/Eight/obj/Debug/netcoreapp2.0/Eight.csproj.CoreCompileInputs.cache
+/Users/owner/Projects/cSharpBasicsUdemy/section5Conditionals/Exercises/Eight/obj/Debug/netcoreapp2.0/Eight.AssemblyInfoInputs.cache
+/Users/owner/Projects/cSharpBasicsUdemy/section5Conditionals/Exercises/Eight/obj/Debug/netcoreapp2.0/Eight.AssemblyInfo.cs
+/Users/owner/Projects/cSharpBasicsUdemy/section5Conditionals/Exercises/Eight/obj/Debug/netcoreapp2.0/Eight.dll
+/Users/owner/Projects/cSharpBasicsUdemy/section5Conditionals/Exercises/Eight/obj/Debug/netcoreapp2.0/Eight.pdb
+/Users/owner/Projects/cSharpBasicsUdemy/section5Conditionals/Exercises/Eight/bin/Debug/netcoreapp2.0/Eight.deps.json
+/Users/owner/Projects/cSharpBasicsUdemy/section5Conditionals/Exercises/Eight/bin/Debug/netcoreapp2.0/Eight.runtimeconfig.json
+/Users/owner/Projects/cSharpBasicsUdemy/section5Conditionals/Exercises/Eight/bin/Debug/netcoreapp2.0/Eight.runtimeconfig.dev.json
+/Users/owner/Projects/cSharpBasicsUdemy/section5Conditionals/Exercises/Eight/bin/Debug/netcoreapp2.0/Eight.dll
+/Users/owner/Projects/cSharpBasicsUdemy/section5Conditionals/Exercises/Eight/bin/Debug/netcoreapp2.0/Eight.pdb
